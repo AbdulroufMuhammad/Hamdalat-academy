@@ -15,8 +15,8 @@ import logo from "../assets/logo.jpeg";
 import { faEnvelope, faPhone } from "@fortawesome/free-solid-svg-icons";
 const CustomFooter = () => {
   return (
-    <FlowbiteFooter container>
-      <div className="w-full dark:bg-green-500">
+    <FlowbiteFooter container className="dark:bg-green-500">
+      <div className="w-full ">
         <div className="grid w-full justify-between sm:flex sm:justify-between md:flex md:grid-cols-1 ">
           <div>
             <FlowbiteFooter.Brand
