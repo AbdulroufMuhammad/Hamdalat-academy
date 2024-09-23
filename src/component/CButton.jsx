@@ -95,7 +95,7 @@ const CButton = () => {
                 </a>
               </motion.div>
             </div>
-            <p className="font-palanquin text-center text-gr">Acquire a Skill Now to Gain the Edge that sets you Apart</p>
+            <p className="font-palanquin text-center text-gr">Acquire a Skill Now to Gain the Edge that sets you Apart.</p>
           </motion.div>
         </motion.div>
       )}
