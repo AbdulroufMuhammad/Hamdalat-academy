@@ -16,8 +16,8 @@ import { faEnvelope, faPhone } from "@fortawesome/free-solid-svg-icons";
 const CustomFooter = () => {
   return (
     <FlowbiteFooter container>
-      <div className="w-full">
-        <div className="grid w-full justify-between sm:flex sm:justify-between md:flex md:grid-cols-1 dark:bg-green-500">
+      <div className="w-full dark:bg-green-500">
+        <div className="grid w-full justify-between sm:flex sm:justify-between md:flex md:grid-cols-1 ">
           <div>
             <FlowbiteFooter.Brand
               href="/"
