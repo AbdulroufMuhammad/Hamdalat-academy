@@ -1,8 +1,8 @@
 import React from "react";
+import About from './component/Aboutus'
 import Navbar from "./component/Navbar";
 // import Navbile from "./component/Navbile";
 import Hero from "./component/Hero";
-import About from "./component/About";
 import Skills from "./component/Skills";
 import EligibilityComponent from "./component/Eligibility";
 import CButton from "./component/CButton";
