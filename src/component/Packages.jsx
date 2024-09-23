@@ -53,17 +53,17 @@ export function PackageCard({ title, duration, fee, features, icon }) {
       <Card className='p-6 shadow-xl rounded-lg'>
         <div className="flex items-center space-x-3 mb-4">
           <FontAwesomeIcon icon={icon} className="text-3xl text-green-600" />
-          <h5 className="text-xl font-medium text-gray-500 dark:text-gray-400">{title}</h5>
+          <h5 className="text-xl font-medium text-gray-500 dark:text-gray-800">{title}</h5>
         </div>
-        <div className="flex items-baseline text-gray-900 dark:text-white mb-4">
+        <div className="flex items-baseline text-gray-900 dark:text-gray-800 mb-4">
           <span className="text-3xl font-semibold">{fee}</span>
-          <span className="ml-2 text-xl font-normal text-gray-500 dark:text-gray-400">{`/${duration}`}</span>
+          <span className="ml-2 text-xl font-normal text-gray-500 dark:dark:text-gray-800">{`/${duration}`}</span>
         </div>
         <ul className="my-4 space-y-2">
           {features.map((feature, index) => (
             <li key={index} className="flex items-center space-x-3">
               <FontAwesomeIcon icon={faCheckCircle} className="text-green-500" />
-              <span className="text-base font-normal text-gray-500 dark:text-gray-400">{feature}</span>
+              <span className="text-base font-normal text-gray-500 dark:text-gray-800">{feature}</span>
             </li>
           ))}
         </ul>
