@@ -50,7 +50,7 @@ export function PackageCard({ title, duration, fee, features, icon }) {
       transition={{ duration: 0.5 }}
       className="max-w-sm mx-auto"
     >
-      <Card className='p-6 shadow-xl rounded-lg bg-white dark:bg-gray-500'>
+      <Card className='p-6 shadow-xl rounded-lg bg-white dark:bg-green-500'>
         <div className="flex items-center space-x-3 mb-4">
           <FontAwesomeIcon icon={icon} className="text-3xl text-green-600" />
           <h5 className="text-xl font-medium text-gray-900 dark:text-white">{title}</h5>

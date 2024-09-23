@@ -49,7 +49,7 @@ const Skills = () => {
     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 p-4 ">
         
       {skillsData.map((skill) => (
-        <Card key={skill.id} imgSrc={skill.imgSrc} className="max-w-sm flex m-auto dark:bg-gray-500 ">
+        <Card key={skill.id} imgSrc={skill.imgSrc} className="max-w-sm flex m-auto dark:bg-green-500 ">
           <h5 className="text-2xl  font-bold tracking-tight text-center text-green-600 font-montserrat dark:text-white">
             {skill.title}
           </h5>
