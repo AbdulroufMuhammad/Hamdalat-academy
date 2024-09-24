@@ -23,7 +23,7 @@ const CustomFooter = () => {
               href="/"
               src={logo}
               alt="Flowbite Logo"
-              name="Hamdalat Academy"
+              name="Hamdalat Technical Training School"
               className=" scroll-smooth"
               
 
