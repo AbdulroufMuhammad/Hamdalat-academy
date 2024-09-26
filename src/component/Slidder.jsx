@@ -107,6 +107,7 @@ export default function Slidder() {
     { img:  slide2},
     { img: slide3 },
     { img: slide4 },
+    { img: slide5 },
     // { img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/142996/moscow.jpg" },
   ];
 

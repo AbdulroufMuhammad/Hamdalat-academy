@@ -43,7 +43,7 @@ const Hero = () => {
             className="font-light  text-center w-[100%]"
           >
             Emerging Dynamic Graduates For Excellence{" "}
-            <span className="text-green-600 text-lg">(E.D.G.E)</span>.{" "}
+            <span className="text-green-600 text-base">(E.D.G.E)</span>.{" "}
           </motion.p>
           <div className="flex justify-center">
             <motion.button
