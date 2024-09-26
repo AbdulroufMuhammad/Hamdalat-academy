@@ -53,7 +53,7 @@ const Hero = () => {
               viewport={{ once: true }}
               className="border bg-green-600 gap-3 rounded-md h-10 my-6 text-white w-36 flex items-center justify-center md:w-40"
             >
-              <a href="http://wa.link/1plt8n">Enroll now</a>
+              <a href="https://wa.link/8qcxn4">Enroll now</a>
               <FontAwesomeIcon
                 icon={faArrowRight}
                 className="text-white"
@@ -61,6 +61,7 @@ const Hero = () => {
               />
             </motion.button>
           </div>
+          
         </div>
       </motion.div>
     </div>

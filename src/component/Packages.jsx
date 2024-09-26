@@ -6,7 +6,7 @@ import { faCalendarDays, faDollarSign, faCheckCircle } from '@fortawesome/free-s
 const packages = [
   {
     title: "Basic Plan",
-    duration: "4 months",
+    duration: "2 months",
     fee: "#45,000",
     features: [
       "Introductory Training",
@@ -17,7 +17,7 @@ const packages = [
   },
   {
     title: "Premium Plan",
-    duration: "6 months",
+    duration: "4 months",
     fee: "#60,000",
     features: [
       "Advanced Training",
@@ -29,7 +29,7 @@ const packages = [
   },
   {
     title: "Professional Plan",
-    duration: "1 year",
+    duration: "6 months",
     fee: "#100,000",
     features: [
       "Comprehensive Training",
@@ -71,7 +71,7 @@ export function PackageCard({ title, duration, fee, features, icon }) {
           type="button"
           className="w-full py-2.5 px-5 text-sm font-medium text-white bg-green-600 rounded-lg hover:bg-green-900 focus:outline-none focus:ring-4 focus:ring-cyan-200 dark:focus:ring-cyan-900"
         >
-          <a href="http://wa.link/1plt8n">Choose Plan</a>
+          <a href="https://forms.gle/VDTftUxkac3MxZwm8">Choose Plan</a>
         </button>
       </Card>
     </motion.div>

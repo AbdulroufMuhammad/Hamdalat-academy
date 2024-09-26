@@ -77,7 +77,7 @@ const CButton = () => {
                 }}
                 className="rounded-full"
               >
-                <a href="https://wa.link/1plt8n" target="_blank" rel="noopener noreferrer" className="text-gray-600">
+                <a href="https://wa.link/8qcxn4" target="_blank" rel="noopener noreferrer" className="text-gray-600">
                   <FontAwesomeIcon icon={faWhatsapp} size="2x"/>
                 </a>
               </motion.div>

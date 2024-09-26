@@ -36,7 +36,7 @@ const CustomFooter = () => {
                 <FlowbiteFooter.Link href="hamdalattechnicalschool@gmail.com ">
                   Gmail
                 </FlowbiteFooter.Link>
-                <FlowbiteFooter.Link href="https://wa.link/1plt8n">
+                <FlowbiteFooter.Link href="https://wa.link/8qcxn4">
                   Whatsapp
                 </FlowbiteFooter.Link>
               </FlowbiteFooter.LinkGroup>
