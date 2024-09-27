@@ -71,7 +71,7 @@ export function PackageCard({ title, duration, fee, features, icon }) {
           type="button"
           className="w-full py-2.5 px-5 text-sm font-medium text-white bg-green-600 rounded-lg hover:bg-green-900 focus:outline-none focus:ring-4 focus:ring-cyan-200 dark:focus:ring-cyan-900"
         >
-          <a href="https://forms.gle/VDTftUxkac3MxZwm8">Choose Plan</a>
+          <a href="https://forms.gle/iwZMeT7Cati2rLPT8">Choose Plan</a>
         </button>
       </Card>
     </motion.div>
